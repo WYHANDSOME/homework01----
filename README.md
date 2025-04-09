@@ -67,6 +67,3 @@ Epoch [160/200], Loss: 0.1438
 Epoch [180/200], Loss: 0.1379
 Epoch [200/200], Loss: 0.1292
 ```
-```
-
-This markdown structure provides a clear and organized representation of the dataset, correlation coefficients, model details, and training progress.
